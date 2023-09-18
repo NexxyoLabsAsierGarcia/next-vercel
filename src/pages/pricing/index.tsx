@@ -7,10 +7,10 @@ export default function HomePage() {
       <main>
         <br/>
         <br/>
-        <h1 className={'title'}>HOME SWEET HOME</h1>
+        <h1 className={'title'}>WHAT&apos;S THE PRICE?</h1>
         <br/>
         <br/>
-        <h2><Link href='/about'>Go About</Link></h2>
+        <h2><Link href='/contact'>Go contact</Link></h2>
       </main>
     </MainLayout>
   )
